@@ -1,11 +1,11 @@
 +++
-title = "Example Post"
-date = "2023-01-01"
-draft = false
+title = "Voyager à Chiètres avec cette carte postale sonore"
+date = "2023-04-26"
+draft = true
 pinned = false
-tags = [ "Lilo", "Example" ]
-image = "/img/default-image.jpg"
-description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
+tags = []
+image = "https://www.picswiss.ch/03-FR/f-FR-30/FR-38-40.jpg"
+description = ""
 footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
 
