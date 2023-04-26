@@ -2,7 +2,7 @@
 title = "Voyager à Chiètres avec cette carte postale sonore"
 date = "2023-04-26"
 draft = false
-pinned = false
+pinned = true
 tags = []
 image = ""
 description = ""
