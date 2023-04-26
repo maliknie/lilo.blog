@@ -4,7 +4,7 @@ date = "2023-04-26"
 draft = true
 pinned = false
 tags = []
-image = "https://www.picswiss.ch/03-FR/f-FR-30/FR-38-40.jpg"
+image = ""
 description = ""
 footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
