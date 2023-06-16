@@ -2,6 +2,6 @@
 headless = true
 icon = "/media/malikblog.png"
 logo = "/media/lilo.jpg"
-image = "/media/banner.png"
+image = ""
 color = "#2a2a2a"
 +++
