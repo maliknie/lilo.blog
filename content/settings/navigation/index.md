@@ -7,5 +7,5 @@ url = "/"
 
 [[link]]
 title = "About"
-url = "https://malikblog.netlify.app/About/"
+url = "https://malikblog.netlify.app/about-me/"
 +++
