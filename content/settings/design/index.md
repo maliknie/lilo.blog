@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = "/img/default-favicon.png"
-logo = "/img/default-logo.png"
+icon = "/media/malikblog.png"
+logo = "/media/lilo.jpg"
 image = "/img/default-image.jpg"
-color = "#5d9fbd"
+color = "#2a2a2a"
 +++
