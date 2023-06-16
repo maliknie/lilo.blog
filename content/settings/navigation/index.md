@@ -6,6 +6,6 @@ title = "Home"
 url = "/"
 
 [[link]]
-title = "About"
+title = "About me"
 url = "https://malikblog.netlify.app/about-me/"
 +++
