@@ -4,10 +4,13 @@ date = "2023-06-28"
 draft = false
 pinned = false
 tags = ["Deutsch", "Reportage", "Cern"]
+image = ""
 +++
 *Menschen sind seit jeher neugierig. Schon immer wollten sie mehr über das Leben, unsere Welt oder das Universum erfahren und ihr Wissen vergrössern. Dieser Neugier nachzugehen, ist der Job der zahlreichen Wissenschaftler*innen, die am oder mit dem CERN arbeiten.*
 
 ## **Die bankrottgegangene Schraubenfabrik** 
+
+![](cern-min.jpg "Die \"Schraubenfabrik\", Bild von Malik Niederhauser")
 
 Es ist der letzte Freitag im April 2023 und um 5 Uhr in der Früh klingelt mein Wecker. In zweieinhalb Stunden geht es von der Aare bis an den Genfersee, wo ich mich am CERN mit Physiker Bernhard Holzer treffe und von ihm durch eines der renommiertesten Zentren für physikalische Grundlagenforschung der Welt geführt werde. Ich mache mich also auf den Weg zum Bahnhof, während mich der Regen komplett durchnässt. Während der Fahrt bewundere ich die schönen Zugstrecken der Schweiz und als ich in Genf ankomme bin ich überrascht: Das Wetter in Genf ist einwandfrei. Vom Bahnhof aus gehe ich aufs Tram und esse noch ein Sandwich. An der Rezeption werde ich von Bernhard in Empfang genommen und spaziere mit ihm quer durchs Gelände zu seinem Büro. Beim Besuch von so einem angesehenen Wissenschaftszentrum erwartet man vielleicht futuristische Gebäude und ein organisiertes Areal, doch zu meiner Überraschung zeigt die Realität etwas anderes: Ein Wissenschaftsjournalist hat einmal ironisch geschrieben, den Anblick vom CERN als den einer “bankrottgegangenen Schraubenfabrik” und ich stimme ihm zu. Bernhard erzählt mir, dass sich Besucher oder Neuangestellte sehr einfach verlaufen können, denn die Nummerierung der Gebäude macht überhaupt keinen Sinn.  
 
@@ -27,11 +30,19 @@ Während seines Rundgangs erklärt er mir, wie viel ihm die Arbeit hier bedeutet
 
 ## Ein Teilchenbeschleuniger im Kleinformat
 
+![](lagerhalle.jpg "Die Lagerhalle, Bild von Malik Niederhauser")
+
 Nach einem Gespräch mit Bernhard führt er mich im Gebäude herum und wir machen uns auf den Weg zu einem der Teilchenbeschleuniger. Dabei gehen wir an einer grossen Halle vorbei. Wenn ein Teilchenbeschleuniger abgebaut wird oder es aus anderen Gründen überschüssiges Material gibt, wird es hier gelagert. Bernhard teilt mir mit, dass es sich das CERN nicht leisten kann, diese Teile wegzuwerfen. Die Ingenieure und Physiker finden gemeinsam heraus, wie gross ein Magnet z.B. sein muss und aus welchem Material dieser sein soll. Der Grund für den hohen Preis der Teilchen ist, dass diese spezialangefertigt sein müssen.
+
+![](leir-min.jpg "Der LEIR, Bild von Malik Niederhauser")
 
 Den LHC (Large Hadron Collider), den grössten Teilchenbeschleuniger am CERN, kann mir Bernhard leider nicht zeigen, jedoch zeigt er anhand vom LEIR, einem kompakten Teilchenbeschleuniger, wie der LHC etwa funktioniert. Aber was ist ein Teilchenbeschleuniger? Ein Teilchenbeschleuniger – wie der Name schon sagt – beschleunigt winzig kleine Teilchen wie Protonen oder Ionen. Da diese Teilchen so leicht sind, erreichen sie unglaublich hohe Geschwindigkeiten – Protonen können annährend so schnell wie Licht werden. Die im LEIR beschleunigten Blei Ionen erreichen bis zu 30% der Lichtgeschwindigkeit. Diese grosse Beschleunigung gibt den Teilchen eine grosse Energie. Beschleunigt werden die Teilchen durch sogenannte Hohlraumresonatoren. Sie erzeugen elektromagnetische Wellen, auf denen die Teilchen «surfen». Die elektrische Feldkomponente dieser “stehenden Wellen” wechsel abwechselnd zwischen positiv und negativ. Wenn eine Gruppe von positiv geladenen Blei Ionen vor einem Hohlraumresonator ist, dann ist das elektrisches Feld negativ – die Ionen werden also angezogen. Genau wenn die Ionen durch den Hohlraumresonator gehen, dreht das Feld um und die Ionen werden weggestossen. Dank Einstein wissen wir, dass die Energie der Teilchen proportional zu deren Masse ist und demnach umgewandelt werden kann. Wenn also zwei hochenergetische Teilchen aufeinandertreffen, wird die Energie freigesetzt und neue Teilchen können entstehen und genau diese neuen Teilchen sind interessant.
 
+![](leir2.jpg "Schema des LEIRs, Bild von Malik Niederhauser")
+
 Genau auf diesem Prinzip basiert eine der grössten Entdeckungen am CERN: Der Beweis der Existenz des Higgs-Teilchens. Das Higgs-Teilchen ist ein Boson, das den Elementarteilchen ihre Masse gibt. Ohne das Higgs-Teilchen gäbe es wahrscheinlich keine Masse – beziehungsweise kein Gewicht – zumindest so wie wir sie kennen. Bernhard Holzer erklärte mir wie dieses Teilchen gefunden worden ist, wie man in der Zukunft mehr Teilchen entdecken wird und was uns in der Gegenwart davon abhält. Weitere Teilchen findet man nach demselben Prinzip, man braucht aber mehr Energie. Dazu bräuchte man ein leistungsfähigeres supraleitendes Material für die Magneten oder man müsste einen noch grösseren Teilchenbeschleuniger bauen.
+
+![](higgs.jpg "Entdeckung des Higgs, Bild von Alexandra Nistorescu")
 
 {{<box title="Was ist ein Boson?">}}
 
@@ -56,5 +67,7 @@ Während wir unsere Kaffees trinken, erzählt mir Bernhard von seinen Erfahrunge
 Zusammengefasst sei das Studium zwar stressig gewesen, rückblickend war es aber eine wertvolle Zeit in seinem Leben. Nach dem Studium erhielt er in verschiedenen Ländern Anfragen, unteranderem in Frankreich. Er ging also ohne Familie, Freunde und Französischkenntnisse nach Frankreich, England und USA, um dort zu arbeiten. Ein toller Teil des Jobs sei die Abwechslung. Man macht nie 2 Jahre lang dasselbe und wenn man keine Lust mehr hat, auf einem Gebiet zu arbeiten, so kann man flexibel sein und andere Angebote annehmen.
 
 Da ich an einem ähnlichen Studiengang interessiert bin, gibt er mir noch den einen oder anderen Rat mit auf den Weg. Wäre er in meinem Alter, würde er nach Praktika in verschiedenen Bereichen suchen. Wenn man noch im Gymnasium ist, bekommt man dafür meistens noch keinen Lohn, dafür macht man wertvolle Erfahrungen. Während dem Studium sind die Praktika sogar bezahlt. Man lernt während eines Praktikums den Alltag im entsprechenden Beruf kennen und erlernt grundlegende Fähigkeiten wie zum Beispiel die Benutzung von verschiedener Software. Vielleicht erkennt man sogar, dass der Beruf gar nicht so zu einem passt und man vielleicht anstatt Physik Ingenieurwissenschaften studieren will oder sogar in eine ganz andere Richtung gehen will.
+
+![](genf.jpg "Der Genfersee, Bild von Alexandra Nistorescu")
 
 Anschliessend führt mich Bernhard zurück zum Ausgang vom CERN, wo ich mich bei ihm verabschiede und mich nochmals bedanke. Mit dem Tram fahre ich zurück zum Bahnhof, wo ich noch ein wenig Genf erkunde. In der schönen Mittagssonne denke ich über den Ausflug nach und geniesse die Wärme in Genf, bevor ich mit dem Zug zurück nach Bern in den Regen fahre.
