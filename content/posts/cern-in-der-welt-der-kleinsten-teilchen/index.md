@@ -6,11 +6,15 @@ pinned = false
 tags = ["Deutsch", "Reportage", "Cern"]
 image = ""
 +++
-*Menschen sind seit jeher neugierig. Schon immer wollten sie mehr über das Leben, unsere Welt oder das Universum erfahren und ihr Wissen vergrössern. Dieser Neugier nachzugehen, ist der Job der zahlreichen Wissenschaftler*innen, die am oder mit dem CERN arbeiten.*
+{{<lead>}}
+
+Menschen sind seit jeher neugierig. Schon immer wollten sie mehr über das Leben, unsere Welt oder das Universum erfahren und ihr Wissen vergrössern. Dieser Neugier nachzugehen, ist der Job der zahlreichen Wissenschaftler*innen, die am oder mit dem CERN arbeiten.
+
+{{</lead>}}
 
 ## **Die bankrottgegangene Schraubenfabrik** 
 
-![](cern-min.jpg "Die \"Schraubenfabrik\", Bild von Malik Niederhauser")
+![](cern-min.jpg "Die \\"Schraubenfabrik\\", Bild von Malik Niederhauser")
 
 Es ist der letzte Freitag im April 2023 und um 5 Uhr in der Früh klingelt mein Wecker. In zweieinhalb Stunden geht es von der Aare bis an den Genfersee, wo ich mich am CERN mit Physiker Bernhard Holzer treffe und von ihm durch eines der renommiertesten Zentren für physikalische Grundlagenforschung der Welt geführt werde. Ich mache mich also auf den Weg zum Bahnhof, während mich der Regen komplett durchnässt. Während der Fahrt bewundere ich die schönen Zugstrecken der Schweiz und als ich in Genf ankomme bin ich überrascht: Das Wetter in Genf ist einwandfrei. Vom Bahnhof aus gehe ich aufs Tram und esse noch ein Sandwich. An der Rezeption werde ich von Bernhard in Empfang genommen und spaziere mit ihm quer durchs Gelände zu seinem Büro. Beim Besuch von so einem angesehenen Wissenschaftszentrum erwartet man vielleicht futuristische Gebäude und ein organisiertes Areal, doch zu meiner Überraschung zeigt die Realität etwas anderes: Ein Wissenschaftsjournalist hat einmal ironisch geschrieben, den Anblick vom CERN als den einer “bankrottgegangenen Schraubenfabrik” und ich stimme ihm zu. Bernhard erzählt mir, dass sich Besucher oder Neuangestellte sehr einfach verlaufen können, denn die Nummerierung der Gebäude macht überhaupt keinen Sinn.  
 
