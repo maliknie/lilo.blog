@@ -4,7 +4,7 @@ date = "2023-06-28"
 draft = false
 pinned = false
 tags = ["Deutsch", "Reportage", "Cern"]
-image = ""
+image = "leir-min.jpg"
 +++
 {{<lead>}}
 
