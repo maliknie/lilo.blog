@@ -24,7 +24,7 @@ Bernhard rechtfertigt das Aussehen des CERNs damit, dass das CERN im Jahr 1954 g
 
 > "Ich bin immer dahingegangen, wo irgendwie anspruchsvolle interessante Arbeit war, und in der Physik ist das durchaus ein Vorteil. Da kann man überall arbeiten."
 >
-> *\-Bernhard Holzer*
+> *Bernhard Holzer*
 
 {{<box title="Bernhard Holzer">}} 
 
@@ -68,7 +68,7 @@ Nachdem mir Bernhard den LEIR gezeigt hat, trinken wir noch etwas in der Cafeter
 
 > "Ich habe einen Bekannten, der hat Engineering studiert, der hat gemeint, das war total locker, hat im wesentlichen Party gemacht. Das ging bei uns nicht."
 >
-> *\-Bernhard Holzer*
+> *Bernhard Holzer*
 
 Während wir unsere Kaffees trinken, erzählt mir Bernhard von seinen Erfahrungen und dem Weg vom Studium bis heute. Sein Plan war es nämlich gar nicht immer Physiker am CERN zu werden. Zuerst war er in einer anderen Vorlesung gewesen, aber der Dozent war ihm zu langweilig. Er entschied sich andere Vorlesungen zu besuchen und traf auf einen «verrückten» Professor, bei dem die Studenten viele Projekte selbst durchführen konnten. Bernhard war direkt interessiert und meldete sich an. Mit dieser Idee kam aber auch viel Arbeit. Die Studenten mussten von morgens bis abends arbeiten. Dadurch lernte Bernhard auch andere Bereiche als die Theorie kennen. Es galt auch die technischen Aufgaben zu bewältigen, wobei nicht immer alles ganz glatt lief. Einmal habe er einen Testlauf durchgeführt und die Magnetfelder eingeschaltet, während die Kollegen noch am Bau beschäftigt waren. Es dauerte eine Weile, bis er bemerkte, dass die Stahlkappenschuhe eines Kollegen ihn an den Magneten zogen. Während den Geschichten, die mir Bernhard erzählt, muss ich immer wieder schmunzeln. Ich kann mir nur zu gut vorstellen, wie ein Arbeitskollege kopfüber an einem Magneten hängt.
 
