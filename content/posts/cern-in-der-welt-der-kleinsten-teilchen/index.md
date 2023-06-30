@@ -23,6 +23,8 @@ Seit ich klein war, war es immer ein Wunsch von mir gewesen, das CERN zu besuche
 Bernhard rechtfertigt das Aussehen des CERNs damit, dass das CERN im Jahr 1954 gegründet wurde, um den wissenschaftlichen Fortschritt und die Zusammenarbeit der Länder auf wissenschaftlichem Gebiet nach dem zweiten Weltkrieg anzukurbeln und “seitdem jeder Cent in die Wissenschaft investiert wurde”. Das CERN verfolgt die Ziele, die Grundlagenforschung und die damit verbundene Technologie weiterzuentwickeln, Nationalitäten und Diversitäten zusammenzubringen, junge Menschen zu inspirieren und auszubilden und natürlich die Geheimnisse des Kosmos zu lüften. Als europäische Organisation für Kernforschung muss das CERN politisch neutral sein und die gesamte Menschheit mithilfe der Wissenschaft unterstützen.
 
 > "Ich bin immer dahingegangen, wo irgendwie anspruchsvolle interessante Arbeit war, und in der Physik ist das durchaus ein Vorteil. Da kann man überall arbeiten."
+>
+> *\-Bernhard Holzer*
 
 {{<box title="Bernhard Holzer">}} 
 
@@ -65,6 +67,8 @@ Jetzt kommen die Ingenieure ins Spiel. Sie schauen, ob so ein Szenario in der Wi
 Nachdem mir Bernhard den LEIR gezeigt hat, trinken wir noch etwas in der Cafeteria. Es herrscht eine angenehme Stimmung und ich denke über den Alltag der Mitarbeiter des CERNs nach, während ich ihren Konversationen lausche. Wissenschaftler werden in den Medien immer als isoliert und nur auf ihre Arbeit fokussiert beschrieben, doch dieser Tag am CERN zeigt etwas anderes. Auf unserem Spaziergang durch das CERN hat Bernhard immer wieder Mitarbeiter gegrüsst. Es scheint, als würden sich alle am CERN kennen und es wirkt, als wären alle super drauf.
 
 > "Ich habe einen Bekannten, der hat Engineering studiert, der hat gemeint, das war total locker, hat im wesentlichen Party gemacht. Das ging bei uns nicht."
+>
+> *\-Bernhard Holzer*
 
 Während wir unsere Kaffees trinken, erzählt mir Bernhard von seinen Erfahrungen und dem Weg vom Studium bis heute. Sein Plan war es nämlich gar nicht immer Physiker am CERN zu werden. Zuerst war er in einer anderen Vorlesung gewesen, aber der Dozent war ihm zu langweilig. Er entschied sich andere Vorlesungen zu besuchen und traf auf einen «verrückten» Professor, bei dem die Studenten viele Projekte selbst durchführen konnten. Bernhard war direkt interessiert und meldete sich an. Mit dieser Idee kam aber auch viel Arbeit. Die Studenten mussten von morgens bis abends arbeiten. Dadurch lernte Bernhard auch andere Bereiche als die Theorie kennen. Es galt auch die technischen Aufgaben zu bewältigen, wobei nicht immer alles ganz glatt lief. Einmal habe er einen Testlauf durchgeführt und die Magnetfelder eingeschaltet, während die Kollegen noch am Bau beschäftigt waren. Es dauerte eine Weile, bis er bemerkte, dass die Stahlkappenschuhe eines Kollegen ihn an den Magneten zogen. Während den Geschichten, die mir Bernhard erzählt, muss ich immer wieder schmunzeln. Ich kann mir nur zu gut vorstellen, wie ein Arbeitskollege kopfüber an einem Magneten hängt.
 
