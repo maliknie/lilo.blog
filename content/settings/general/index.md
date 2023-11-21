@@ -1,7 +1,7 @@
 +++
 headless = true
 title = "Malik"
-description = "Ambitious on and off the field"
+description = "Mein Blog"
 footerLeft = ""
 footerRight = ""
 +++
