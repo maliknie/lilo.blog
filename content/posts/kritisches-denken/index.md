@@ -1,13 +1,13 @@
 +++
 title = "Kritisches Denken"
 date = "2023-12-15"
-draft = true
+draft = false
 pinned = false
 tags = ["Deutsch", "KD"]
 +++
 # Kritisches Denken
 
-Am Gymnasium werden Unterrichtseinheiten zum kritischen Denken langsam aber sicher etabliert. Doch was ist KD überhaupt und kann man lernen immer kritisch zu denken? 
+Am Gymnasium werden Unterrichtseinheiten zum kritischen Denken langsam aber sicher etabliert. Doch was ist KD oder kritisches Denken überhaupt und macht es Sinn immer kritisch zu denken? 
 
 ## KD im Deutschunterricht
 
@@ -27,7 +27,7 @@ Der Dunning-Kruger-Effekt beschreibt, dass Fortgeschrittene eines Feldes ihr Kö
 
 Das PLURV Modell beschreibt die beliebtesten Tricks von Wissenschaftsleugnern, um Desinformationen zu verbreiten. Es ist die übersetzte Version des von John Cook erfundenen FLICC Modell.
 
-Im Unterricht hörten wir uns einen Auszug des Coronavirus-Update Podcast an, in dem Christian Drosten, Arzt während der Corona-Pandemie, das Modell auf Corona-Leugner anwendet:
+Im Unterricht hörten wir uns einen Auszug des Coronavirus-Update Podcast an, in dem Christian Drosten, Leiter der Virologie in der Berliner Charité, das Modell auf Corona-Leugner anwendet:
 
 **P**seudo Experten
 
@@ -39,12 +39,20 @@ Beim Punkt "Logische Fehlschlüsse" geht es darum, dass Wissenschaftsleugner aus
 
 **U**nerfüllbare Erwartungen
 
-Hier spricht Christian Drosten vom Prinzip "moving the goal posts". Damit ist gemeint, dass die Wissenschaftsleugner
+Hier spricht Christian Drosten vom Prinzip "moving the goal posts". Damit ist gemeint, dass die Wissenschaftsleugner ständig das Ziel der Argumentation ändern und nie mit den Antworten der Wissenschaftler zufrieden sind. Zum Beispiel wird gesagt, dass das Virus ja noch nie isoliert wurde. Sobald dies aber getan wird, sagen die Skeptiker, dass das ja nur ein Bild sei und dass sie das Isolat selbst als Beweis wollen anstatt zu akzeptieren, dass sie falsch lagen.
 
-**R**osinen Pickerei
+**R**osinenpickerei
+
+Die Wissenschaftsredakteurin, Frau Schulmann, erwähnt die "Rosinenpickerei" und beschreibt die Strategie als das lückenhaftes Auswählen von Informationen, um seine eigene Position zu schützen. Man ignoriert also jegliche Information, die der eigenen Meinung widerspricht. Als Beispiel benutzt Drosten das Auswählen von Studien. Die Wissenschaftsleugner glauben den Studien, die beispielsweise sagen, dass das Virus für Kinder irrelevant sei. Grossen, nationalen statistischen Erhebungen schenken sie jedoch keinen Glauben.
 
 **V**erschwörungs Mythen
+
+Zu guter Letzt erklärt Drosten die Verschwörungs Mythen. Beispielsweise wird Wissenschaftlern unterstellt, dass sie Geld dafür bekommen, in der Öffentlichkeit falsche Informationen zu verbreiten. Diese sind besonders mühsam, denn während der Pandemie arbeiteten die Ärzte und Wissenschaftler Stunden an überzeit. Sie hatten also gar keine Zeit dafür stellung zu nehmen und die Anschuldigungen zu widerlegen.
 
 ## Kritisches Denken ausserhalb vom Schulzimmer
 
 ### Wann macht KD Sinn?
+
+Kritisch zu denken wird als vorteilhafte Eigenschaft angesehen. Jeder und jede würde gerne behaupten das er oder sie kritisch denkt. Immer kritisch zu denken ist aber nicht möglich. Kritisch zu denken braucht eine immense kognitive Leistung und in der heutigen Zeit werden wir schon so täglich mit einer riesen Menge von Informationen konfrontiert. Unser Gehirn ist einfach nicht zu solch hoher Denkleistung gemacht. Natürlich ist es aber von Vorteil in manchen Situationen seine eigenen Gedanken zu analysieren und zu überlegen, ob die eigene Schlussfolgerung Sinn macht. 
+
+Bei wichtigen Entscheidungen oder politischen und wissenschaftlichen Themen macht es durchaus Sinn kritisch zu denken. Es hilft uns dabei eigene Fehlschlüsse zu erkennen und zu minimieren. Wir können so selektive Wahrnehmung vermeiden und Informationen objektiv bewerten. Dadurch können wir bessere Entscheidungen treffen. Ausserdem können wir zuverlässige Quellen erkennen und die Qualität ihrer Informationen besser bewerten. Bei wichtigen Debatten können wir also auch so falschen Informationen aus dem Weg gehen.
