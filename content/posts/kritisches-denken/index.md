@@ -7,9 +7,7 @@ tags = ["Deutsch", "KD", "PLURV"]
 image = "https://cdn.britannica.com/00/146200-050-A60812DA/Thinker-Auguste-Rodin-Museum-garden-Paris-1904.jpg"
 footnotes = "Quellen:\n\n* [Das PLURV-Modell](https://www.klimafakten.de/meldung/p-l-u-r-v-dies-sind-die-haeufigsten-desinformations-tricks-von-wissenschafts-leugnern)\n* [Coronavirus-Update Podcast](https://www.ndr.de/nachrichten/info/podcast4684.html)\n\nAbbildungen:\n\n* [Titelbild](https://www.britannica.com/topic/The-Thinker-sculpture-by-Rodin)\n* [Abb. 1](https://studyflix.de/biologie/dunning-kruger-effekt-5603)\n* [Abb. 2](https://www.klimafakten.de/meldung/p-l-u-r-v-dies-sind-die-haeufigsten-desinformations-tricks-von-wissenschafts-leugnern)"
 +++
-# Kritisches Denken
-
-Am Gymnasium werden Unterrichtseinheiten zum kritischen Denken langsam aber sicher etabliert. Doch was ist KD oder kritisches Denken überhaupt und macht es Sinn immer kritisch zu denken? 
+*Am Gymnasium werden Unterrichtseinheiten zum kritischen Denken langsam aber sicher etabliert. Doch was ist KD oder kritisches Denken überhaupt und macht es Sinn immer kritisch zu denken?* 
 
 ## KD im Deutschunterricht
 
