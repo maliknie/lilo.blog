@@ -4,6 +4,8 @@ date = "2023-12-15"
 draft = false
 pinned = false
 tags = ["Deutsch", "KD", "PLURV"]
+image = "https://cdn.britannica.com/00/146200-050-A60812DA/Thinker-Auguste-Rodin-Museum-garden-Paris-1904.jpg"
+footnotes = "Quellen:\n\n* [Das PLURV-Modell](https://www.klimafakten.de/meldung/p-l-u-r-v-dies-sind-die-haeufigsten-desinformations-tricks-von-wissenschafts-leugnern)\n* [Coronavirus-Update Podcast](https://www.ndr.de/nachrichten/info/podcast4684.html)\n\nAbbildungen:\n\n* [Titelbild](https://www.britannica.com/topic/The-Thinker-sculpture-by-Rodin)\n* [Abb. 1](https://studyflix.de/biologie/dunning-kruger-effekt-5603)\n* [Abb. 2](https://www.klimafakten.de/meldung/p-l-u-r-v-dies-sind-die-haeufigsten-desinformations-tricks-von-wissenschafts-leugnern)"
 +++
 # Kritisches Denken
 
@@ -17,13 +19,13 @@ Unser Deutschlehrer, Markus Beutler, beschreibt das kritische Denken als eine "m
 
 Ein Beispiel einer kognitiven Verzerrung, die bereits vielen geläufig ist, ist der Dunning-Kruger-Effekt:
 
-![Grafik Dunning-Kruger-Effekt](https://d1g9li960vagp7.cloudfront.net/wp-content/uploads/2022/10/Folie2-2-1024x576.png "Grafik von Studyflix, https://studyflix.de/biologie/dunning-kruger-effekt-5603")
+![Grafik Dunning-Kruger-Effekt](https://d1g9li960vagp7.cloudfront.net/wp-content/uploads/2022/10/Folie2-2-1024x576.png "Abb. 1: Grafik von Studyflix")
 
 Der Dunning-Kruger-Effekt beschreibt, dass Fortgeschrittene eines Feldes ihr Können tendenziell viel zu hoch einschätzen, während Kompetente sich oft als schlechter einschätzen, als sie eigentlich sind.
 
 ### Das PLURV-Modell
 
-![PLURV Modell ](https://www.klimafakten.de/sites/default/files/styles/675px-breite/public/images/articles/plurvgrundkursdesinformationweb-jpg2000px.jpg?itok=fC1Jr44d "Das PLURV Modell, https://www.klimafakten.de/meldung/p-l-u-r-v-dies-sind-die-haeufigsten-desinformations-tricks-von-wissenschafts-leugnern")
+![PLURV Modell ](https://www.klimafakten.de/sites/default/files/styles/675px-breite/public/images/articles/plurvgrundkursdesinformationweb-jpg2000px.jpg?itok=fC1Jr44d "Abb. 2: Das PLURV Modell")
 
 Das PLURV Modell beschreibt die beliebtesten Tricks von Wissenschaftsleugnern, um Desinformationen zu verbreiten. Es ist die übersetzte Version des von John Cook erfundenen FLICC Modell.
 
