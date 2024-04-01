@@ -1,5 +1,5 @@
 +++
-title = "Kritisches Denken im Fokus - Das PLURV Modell und sinvolle Anwendungen im Alltag"
+title = "Kritisches Denken im Fokus - Das PLURV Modell und sinnvolle Anwendungen im Alltag"
 date = "2023-12-15"
 draft = false
 pinned = false
