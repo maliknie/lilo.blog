@@ -4,6 +4,7 @@ date = "2024-04-21"
 draft = false
 pinned = false
 tags = ["Deutsch", "DeutscherIdealismus", "Woyzeck", "Literatur", "GeorgBüchner", "m25c"]
+footnotes = "Quellen:\n\n* www.spektrum.de/lexikon/philosophie/deutscher-idealismus/442\n* chat.openai.com"
 +++
 Im Rahmen des Deutschunterrichts haben wir das während der Epoche des Frührealismus entstandene Stück “Woyzeck” von Georg Büchner gelesen und genauer angeschaut. Dabei haben wir das Stück zuerst werkimmanent interpretiert und uns anschliessend mit dem historischen Woyzeck, dem Deutschen Idealismus und dem Autor, Georg Büchner, auseinandergesetzt, um den Text im Kontext der damaligen Zeit zu verstehen.
 Das Werk handelt von Woyzeck, einem Bürger der Unterschicht. Im Verlauf der Geschichte wird Woyzeck vom Arzt, dem Hauptmann und dem Tambourmajor ausgenutzt und wie ein Unmensch behandelt. Woyzeck hat sein Leben nicht mehr im Griff und arbeitet mehrere Jobs und erleidet das Leid, das ihm tagtäglich zugefügt wird, um für seine Familie zu sorgen. Als herauskommt, dass seine Frau eine Affäre mit dem Tambourmajor hat, bricht für Woyzeck die Welt zusammen: Das einzige, wofür er lebt, und zwar seine Frau und Familie, werden von ihm genommen. Er tötet seine Frau, aber nicht aus Eifersucht. Es scheint, als hätte er gar keine Kontrolle darüber, was er macht. Er versucht den Mord nicht zu verheimlichen, nein, er tut so, als wäre gar nichts passiert. Der Fall wird in Kürze aufgedeckt und Woyzeck wird verurteilt.
