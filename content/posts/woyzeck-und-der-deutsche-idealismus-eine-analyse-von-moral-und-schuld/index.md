@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = ["Deutsch", "DeutscherIdealismus", "Woyzeck", "Literatur", "GeorgBüchner", "m25c"]
 image = "https://www.streitvermittler-mediator.de/images/moral.jpg"
-footnotes = "Quellen:\n\n* www.spektrum.de/lexikon/philosophie/deutscher-idealismus/442\n* chat.openai.com\n* www.streitvermittler-mediator.de/blog-mediation/ist-moral-eigentlich-ueberall-gleich.html"
+footnotes = "* www.spektrum.de/lexikon/philosophie/deutscher-idealismus/442\n* chat.openai.com\n* www.streitvermittler-mediator.de/blog-mediation/ist-moral-eigentlich-ueberall-gleich.html"
 +++
 {{<lead>}}
 Georg Büchners "Woyzeck" ist nicht nur ein literarischer Klassiker, sondern gibt uns zusätzlich einen Einblick in die Hochblüte der Deutschen Philosophie: Den Deutschen Idealismus. Büchner kritisiert mit diesem Werk den Deutschen Idealismus und regte eine neue Debatte über Moral und Schuld an.
@@ -30,3 +30,4 @@ Während dem Schreiben des Ersten Teils, in dem ich einen Einblick in unseren De
 
 Bei der Argumentation beider Seiten und der Formulierung half mir mein Kollege Marco Schopfer, der das Werk "Woyzeck" ebenfalls gelesen hat. Um die Position der Vertreter des Deutschen Idealismus besser verstehen zu können, bin ich noch einmal meine Notizen durchgegangen und habe die Arbeitsblätter vom Unterricht durchgelesen. Anschliessend habe ich mir die fehlenden Informationen im Internet zusammengesucht und habe mir Dinge, bei denen ich mir unsicher war, von ChatGPT erklären lassen. 
 {{<\box>}}
+Quellen:
