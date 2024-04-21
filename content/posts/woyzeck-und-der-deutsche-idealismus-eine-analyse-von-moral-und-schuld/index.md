@@ -7,13 +7,6 @@ tags = ["Deutsch", "DeutscherIdealismus", "Woyzeck", "Literatur", "GeorgBüchner
 image = "https://www.streitvermittler-mediator.de/images/moral.jpg"
 footnotes = "Quellen:\n\n* www.spektrum.de/lexikon/philosophie/deutscher-idealismus/442\n* chat.openai.com\n* www.streitvermittler-mediator.de/blog-mediation/ist-moral-eigentlich-ueberall-gleich.html"
 +++
-{{<box title="Arbeitsprozess und Reflexion">}}
-Während dem Schreiben des Ersten Teils, in dem ich einen Einblick in unseren Deutschunterricht bieten wollte, kam mir die Idee den Blogeintrag als eine Art Erörterung über die in diesem Teil aufkommende Leitfrage "Ist Woyzeck unschuldig?" zu gestalten. Der erste Teil dient also gleichzeitig als Einleitung der Erörterung und als Einblick in den Unterricht. Ich dachte dieser Blogeintrag wäre eine gute Möglichkeit mein epistemisches Schreiben zu verbessern. Obwohl ich mit dem Endprodukt nicht ganz zufrieden bin, bin ich überzeugt, dass ich durch das Schreiben dieses Textes meine aus dem Deutschunterricht gewonnenen Kenntnisse vertieft und neues Wissen geschaffen zu haben. 
-
-Bei der Argumentation beider Seiten und der Formulierung half mir mein Kollege Marco Schopfer, der das Werk "Woyzeck" ebenfalls gelesen hat. Um die Position der Vertreter des Deutschen Idealismus besser verstehen zu können, bin ich noch einmal meine Notizen durchgegangen und habe die Arbeitsblätter vom Unterricht durchgelesen. Anschliessend habe ich mir die fehlenden Informationen im Internet zusammengesucht und habe mir Dinge, bei denen ich mir unsicher war, von ChatGPT erklären lassen. 
-{{<\box>}}
-
-
 {{<lead>}}
 Georg Büchners "Woyzeck" ist nicht nur ein literarischer Klassiker, sondern gibt uns zusätzlich einen Einblick in die Hochblüte der Deutschen Philosophie: Den Deutschen Idealismus. Büchner kritisiert mit diesem Werk den Deutschen Idealismus und regte eine neue Debatte über Moral und Schuld an.
 {{<\lead>}}
