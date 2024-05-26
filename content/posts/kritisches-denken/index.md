@@ -2,7 +2,7 @@
 title = "Kritisches Denken im Fokus - Das PLURV Modell und sinnvolle Anwendungen im Alltag"
 date = "2023-12-15"
 draft = false
-pinned = false
+pinned = true
 tags = ["Deutsch", "KD", "PLURV", "KritischesDenken"]
 image = "denker.jpg"
 footnotes = "Quellen:\n\n* [Das PLURV-Modell](https://www.klimafakten.de/meldung/p-l-u-r-v-dies-sind-die-haeufigsten-desinformations-tricks-von-wissenschafts-leugnern)\n* [Coronavirus-Update Podcast](https://www.ndr.de/nachrichten/info/podcast4684.html)\n\nAbbildungen:\n\n* [Titelbild](https://www.britannica.com/topic/The-Thinker-sculpture-by-Rodin)\n* [Abb. 1](https://studyflix.de/biologie/dunning-kruger-effekt-5603)\n* [Abb. 2](https://www.klimafakten.de/meldung/p-l-u-r-v-dies-sind-die-haeufigsten-desinformations-tricks-von-wissenschafts-leugnern)"
