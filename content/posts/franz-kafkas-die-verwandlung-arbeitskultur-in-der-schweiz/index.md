@@ -2,7 +2,7 @@
 title = "Franz Kafkas \"Die verwandlung\" - Arbeitskultur in der Schweiz"
 date = "2024-05-26"
 draft = false
-pinned = false
+pinned = true
 tags = ["deutsch", "kafka", "dieverwandlung", "arbeitskultur", "schweiz"]
 +++
 {{<lead>}}Lead{{<\leand>}}
