@@ -2,7 +2,7 @@
 title = "Woyzeck und der Deutsche Idealismus: Eine Analyse von Moral und Schuld"
 date = "2024-04-21"
 draft = false
-pinned = false
+pinned = true
 tags = ["Deutsch", "DeutscherIdealismus", "Woyzeck", "Literatur", "GeorgBüchner", "m25c"]
 image = "moral.jpg"
 footnotes = "Quellen:\n\n* www.spektrum.de/lexikon/philosophie/deutscher-idealismus/442\n* chat.openai.com\n* www.streitvermittler-mediator.de/blog-mediation/ist-moral-eigentlich-ueberall-gleich.html (Titelbild)"
