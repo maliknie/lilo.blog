@@ -5,7 +5,7 @@ draft = false
 pinned = true
 tags = ["deutsch", "kafka", "dieverwandlung", "arbeitskultur", "schweiz"]
 image = "https://stellaplan.de/wp-content/uploads/2020/10/9783946310082_28.jpg"
-footnotes = "Quellen:\n\n* https://studyflix.de/wirtschaft/grundbedurfnisse-6125"
+footnotes = "Quellen:\n\n* https://studyflix.de/wirtschaft/grundbedurfnisse-6125\n* https://stellaplan.de/produkte/franz-kafka-die-verwandlung-printausgabe/ (Titelbild)"
 +++
 {{<lead>}}
 "Die Verwandlung" - Das wahrscheinlich international berühmteste deutsche Literaturwerk. In diesem Blog erkläre ich wie wir diesen Text im Unterricht bearbeitet haben und gehe genauer auf wichtige Themen der Erzählung ein.
