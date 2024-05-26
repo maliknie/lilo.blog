@@ -1,5 +1,5 @@
 +++
-title = "Franz Kafkas \"Die verwandlung\" - Arbeitskultur in der Schweiz"
+title = "Franz Kafkas \"Die Verwandlung\" - Arbeitskultur in der Schweiz"
 date = "2024-05-26"
 draft = false
 pinned = true
@@ -18,6 +18,7 @@ Der Text handelt von Gregor Samsa, der in einem Abhängigkeitsverhältnis lebt u
 Ein wichtiger Stichpunkt, der während der Besprechung des ersten Abschnitts aufgekommen ist, ist die Dichotomie Gregors. Äusserlich ist Gregor nämlich ein Ungeziefer. Sein Körper hat sich vollkommen verändert. Beim Versuch mit dem Prokuristen und seiner Familie zu kommunizieren, hören sie nur Insektengeräusche und verstehen ihn nicht. Innerlich ist er aber noch ein Mensch. Er denkt immer noch an die Arbeit und hat keine Kontrolle über seine Beinchen und weiss noch nicht, wie er mit seinem neuen Körper umgehen soll. Auch im weiteren Verlauf der Geschichte spielt diese Dichotomie noch eine Rolle. Die Metamorphose geht ständig weiter und Gregor wird immer wie mehr zum Tier. Während der Besprechung des zweiten Teils meldete ich mich und stellte fest, dass Gregor mehr tierische Verhaltensmuster zeigt und meine Mitschülerin Alexandra machte auf die tierischen Instinkte Gregors aufmerksam. Zum Beispiel fühlt sich Gregor an der Decke wohl, hat ein verändertes Essverhalten und hat den Instinkt seiner Schwester zur Abschreckung ins Gesicht zu springen. Herr Beutler machte aber darauf aufmerksam, dass Gregor auch noch menschliche Emotionen wie Scham und Empathie empfindet. Er versteckt sich unter dem Sofa, vermutlich weil er sich schämt und seiner Familie den Anblick ersparen will.
 
 **Arbeitskultur in der Schweiz**
+
 In Kafkas Erzählung spielt die Arbeit für Gregor eine wichtige Rolle. Seine Arbeit dient dazu die Grundbedürfnisse von ihm und seiner Familie abzudecken. Um Grundbedürfnisse wie Wasser und Nahrung und Sicherheitsbedürfnisse wie Wohnung und Gesundheit sicherzustellen, muss er genug Einkommen für eine vierköpfige Familie erzielen.
 In der heutigen Zeit dient die Arbeit nicht nur zum Abdecken der Grund- und Sicherheitsbedürfnisse. Vielmehr dient die Arbeit zur Identitätsbestimmung und Selbstverwirklichung. Die ältere Generation arbeitet pflichtbewusst und denkt and ihre Altersvorsorge, während die jüngere Generation den Fokus auf das Geniessen ihres Lebens legt. 
 
