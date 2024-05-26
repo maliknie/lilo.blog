@@ -2,7 +2,7 @@
 title = "About me"
 draft = false
 +++
-![](lilo.jpg)
+![]()
 
 # Who Am I?
 
