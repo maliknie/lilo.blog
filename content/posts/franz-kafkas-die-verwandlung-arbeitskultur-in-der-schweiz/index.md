@@ -4,8 +4,11 @@ date = "2024-05-26"
 draft = false
 pinned = true
 tags = ["deutsch", "kafka", "dieverwandlung", "arbeitskultur", "schweiz"]
+footnotes = "Quellen:\n\n* https://studyflix.de/wirtschaft/grundbedurfnisse-6125"
 +++
-{{<lead>}}{{<\lead>}}
+{{<lead>}}
+"Die Verwandlung" - Das wahrscheinlich international berühmteste deutsche Literaturwerk. In diesem Blog erkläre ich wie wir diesen Text im Unterricht bearbeitet haben und gehe genauer auf wichtige Themen der Erzählung ein.
+{{<\lead>}}
 
 **Franz Kafka - Die Verwandlung**
 
@@ -16,5 +19,10 @@ Ein wichtiger Stichpunkt, der während der Besprechung des ersten Abschnitts auf
 **Arbeitskultur in der Schweiz**
 In Kafkas Erzählung spielt die Arbeit für Gregor eine wichtige Rolle. Seine Arbeit dient dazu die Grundbedürfnisse von ihm und seiner Familie abzudecken. Um Grundbedürfnisse wie Wasser und Nahrung und Sicherheitsbedürfnisse wie Wohnung und Gesundheit sicherzustellen, muss er genug Einkommen für eine vierköpfige Familie erzielen.
 In der heutigen Zeit dient die Arbeit nicht nur zum Abdecken der Grund- und Sicherheitsbedürfnisse. Vielmehr dient die Arbeit zur Identitätsbestimmung und Selbstverwirklichung. Die ältere Generation arbeitet pflichtbewusst und denkt and ihre Altersvorsorge, während die jüngere Generation den Fokus auf das Geniessen ihres Lebens legt. 
+
+![Bedürfnispyramide nach Maslow](https://d1g9li960vagp7.cloudfront.net/wp-content/uploads/2023/02/WP_3-2-1024x576.jpg "Bedürfnispyramide nach Maslow, https://studyflix.de/wirtschaft/grundbedurfnisse-6125")
+
 Das Konzept der Work-Life-Balance ist in der Schweizerischen Arbeitskultur von grosser Bedeutung. Arbeitgeber bieten ihren Mitarbeitern mit verschiedenen Benefits wie Homeoffice-Möglichkeiten und flexiblen Arbeitszeiten Raum für persönliche Entwicklung. Durch die Mitarbeiterzufriedenheit wird die Arbeitsmoral und -effizienz gestärkt.
 Heute ist die Arbeit in der Schweizer Gesellschaft nicht nur ein Mittel zur Existenzsicherung, sondern auch ein wesentlicher Bestandteil der persönlichen Identität und Zufriedenheit. Gregors Situation steht im Gegensatz zur heutigen Arbeitskultur in der Schweiz. Für ihn ist die Arbeit hauptsächlich eine Belastung und Pflicht, die ihn von seiner Selbstverwirklichung abhält.
+
+{{<box title="Arbeitsprozess und Reflexion"> }} Besonders schwierig fand ich das Aussuchen des weiterführenden Themas bzw. genügen Inhalt dazu zu finden. Aus diesem Grund ist der unterrichtsabbildende Teil auch etwas länger. Mit dem Teil bin ich aber trotzdem nicht ganz zufrieden, weil ich meine eigenen Ideen nicht gut einbauen konnte und andere Teile des Unterrichts wie andere Besprechungen und den Vortrag von Reiner Stach nicht einbauen konnte, da ich meinen Blog genügend eingrenzen musste. Besonders beim zweiten Teil des Blogs haben mir meine ältere Schwester und meine Eltern geholfen. Sie haben mir erzählt was die Arbeit für sie Bedeuted und was sie über die Arbeitskultur in der Schweiz denken. Auch bei der Formulierung haben sie mir geholfen.  {{ </box> }}
