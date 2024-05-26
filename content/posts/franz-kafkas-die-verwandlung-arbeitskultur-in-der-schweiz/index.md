@@ -4,6 +4,7 @@ date = "2024-05-26"
 draft = false
 pinned = true
 tags = ["deutsch", "kafka", "dieverwandlung", "arbeitskultur", "schweiz"]
+image = "https://stellaplan.de/wp-content/uploads/2020/10/9783946310082_28.jpg"
 footnotes = "Quellen:\n\n* https://studyflix.de/wirtschaft/grundbedurfnisse-6125"
 +++
 {{<lead>}}
