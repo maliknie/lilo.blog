@@ -4,7 +4,7 @@ date = "2024-04-21"
 draft = false
 pinned = false
 tags = ["Deutsch", "DeutscherIdealismus", "Woyzeck", "Literatur", "GeorgBüchner", "m25c"]
-image = "https://www.streitvermittler-mediator.de/images/moral.jpg"
+image = "moral.jpg"
 footnotes = "Quellen:\n\n* www.spektrum.de/lexikon/philosophie/deutscher-idealismus/442\n* chat.openai.com\n* www.streitvermittler-mediator.de/blog-mediation/ist-moral-eigentlich-ueberall-gleich.html (Titelbild)"
 +++
 {{<lead>}}
