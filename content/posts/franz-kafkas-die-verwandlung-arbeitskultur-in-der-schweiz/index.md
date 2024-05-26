@@ -5,7 +5,7 @@ draft = false
 pinned = true
 tags = ["deutsch", "kafka", "dieverwandlung", "arbeitskultur", "schweiz"]
 +++
-{{<lead>}}Lead{{<\leand>}}
+{{<lead>}}{{<\lead>}}
 
 **Franz Kafka - Die Verwandlung**
 
