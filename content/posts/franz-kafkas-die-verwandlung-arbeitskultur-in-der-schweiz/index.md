@@ -9,7 +9,7 @@ footnotes = "Quellen:\n\n* https://studyflix.de/wirtschaft/grundbedurfnisse-6125
 +++
 {{<lead>}}
 "Die Verwandlung" - Das wahrscheinlich international berühmteste deutsche Literaturwerk. In diesem Blog erkläre ich wie wir diesen Text im Unterricht bearbeitet haben und gehe genauer auf wichtige Themen der Erzählung ein.
-{{<\lead>}}
+{{</lead>}}
 
 **Franz Kafka - Die Verwandlung**
 
