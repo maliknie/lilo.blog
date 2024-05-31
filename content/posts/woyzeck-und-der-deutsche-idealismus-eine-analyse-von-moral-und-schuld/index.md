@@ -1,7 +1,7 @@
 +++
 title = "Woyzeck und der Deutsche Idealismus: Eine Analyse von Moral und Schuld"
 date = "2024-04-21"
-draft = false
+draft = true
 pinned = true
 tags = ["Deutsch", "DeutscherIdealismus", "Woyzeck", "Literatur", "GeorgBüchner", "m25c", "Moral"]
 image = "moral.jpg"
