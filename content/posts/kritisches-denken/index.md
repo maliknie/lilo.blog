@@ -1,7 +1,7 @@
 +++
 title = "Kritisches Denken im Fokus - Das PLURV Modell und sinnvolle Anwendungen im Alltag"
 date = "2023-12-15"
-draft = false
+draft = true
 pinned = true
 tags = ["Deutsch", "KD", "PLURV", "KritischesDenken", "m25c"]
 image = "denker.jpg"
