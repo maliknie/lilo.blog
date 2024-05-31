@@ -1,7 +1,7 @@
 +++
 title = "Franz Kafkas \"Die Verwandlung\" - Arbeitskultur in der Schweiz"
 date = "2024-05-26"
-draft = false
+draft = true
 pinned = true
 tags = ["deutsch", "kafka", "dieverwandlung", "arbeitskultur", "schweiz", "m25c"]
 image = "https://stellaplan.de/wp-content/uploads/2020/10/9783946310082_28.jpg"
