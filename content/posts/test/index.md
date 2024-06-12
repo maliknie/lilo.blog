@@ -1,7 +1,7 @@
 +++
 title = "test"
 date = "2024-05-26"
-draft = false
+draft = true
 pinned = false
 +++
 test
