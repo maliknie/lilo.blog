@@ -2,6 +2,6 @@
 headless = true
 icon = "/media/icon.png"
 logo = "/media/icon.png"
-image = "/media/pixil-frame-0.png"
+image = "/media/pixil-frame-0-1-.png"
 color = "#31a2f2"
 +++
