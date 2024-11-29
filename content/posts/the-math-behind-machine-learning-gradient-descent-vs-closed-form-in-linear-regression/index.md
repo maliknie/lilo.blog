@@ -1,7 +1,7 @@
 +++
 title = "The Math Behind Machine Learning - Gradient Descent vs. Closed Form in Linear Regression"
 date = "2024-11-29"
-draft = false
+draft = true
 pinned = false
 +++
 {{<lead>}}
