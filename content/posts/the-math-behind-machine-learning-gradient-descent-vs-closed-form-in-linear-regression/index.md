@@ -35,7 +35,7 @@ Given some data points, here in blue, we're trying to find this red line that fi
 
 In this image we can see that we can adjust two parameters to make this line fit our data: the slope *m* and the y-intercept *b*.
 
-In this illustration we can visualize the meaning of the MSE. In purple we can see the predtiction *mx<sub>i</sub> + b* at a point *x*<sub>*i*</sub>. The true value at that point is given by the blue points' y-value *y<sub>i</sub>*. The difference of the true value and the prediction gives us the error for one point (*y<sub>i</sub> - (mx<sub>i</sub> + b)*). To get the error for our entire dataset we square that value to get rid of any negative values, so the positive and negative values don't cancel out, and then sum the error of every point. At the end we normalize the error by dividing by the length of the dataset *n*.
+In this illustration we can visualize the meaning of the MSE. In purple we can see the prediction *mx<sub>i</sub> + b* at a point *x*<sub>*i*</sub>. The true value at that point is given by the blue points' y-value *y<sub>i</sub>*. The difference of the true value and the prediction gives us the error for one point (*y<sub>i</sub> - (mx<sub>i</sub> + b)*). To get the error for our entire dataset we square that value to get rid of any negative values, so the positive and negative values don't cancel out, and then sum the error of every point. At the end we normalize the error by dividing by the length of the dataset *n*.
 
 Now that we know how the loss is calculated, let's explore two ways to minimize the error: The closed-form solution and gradient descent.
 
@@ -61,7 +61,7 @@ Now that we calculated the partial derivatives we can use them to iteratively ad
 
 ### Closed-Form Solution
 
-Finding the closed-form solution is an analytical approach alternative to gradient descent to optimize the loss function. It offers an exact solution for the parameters *a* and *b* in one step. For a simple model, like linear regression, and a small dataset it's computationally efficient, but as complexity and size of the dataset grow, finding the closed-form solution becomed inefficient or even impossible.
+Finding the closed-form solution is an analytical approach alternative to gradient descent to optimize the loss function. It offers an exact solution for the parameters *a* and *b* in one step. For a simple model, like linear regression, and a small dataset it's computationally efficient, but as complexity and size of the dataset grow, finding the closed-form solution become inefficient or even impossible.
 
 #### How does it work?
 
@@ -83,7 +83,7 @@ Now let's see how we would implement both of these approached in Python.
 
 # Implementation in Python
 
-I started by generating some data. I used a lambda function to create a "true" relationship y = -3x + 10. I then added some random noise that reflects the natural variability you would see in real-world data.
+I started by generating some data. I used a lambda function to create a "true" relationship *y = -3x + 10*. I then added some random noise that reflects the natural variability you would see in real-world data.
 
 ```
 import numpy as np
@@ -177,6 +177,8 @@ As we can see both approaches delivered very similar results with the closed-for
 To visualize the results I plotted the points and the regression lines:
 
 ```
+import matplotlib.pyplot as plt
+
 x = data[:, 0]
 y = data[:, 1]
 
