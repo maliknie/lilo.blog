@@ -29,7 +29,7 @@ By the end you will not only understand how linear regression works but also get
 
 The goal of linear regression is to find the best-fit line *y = mx + b* that minimizes the error between the predicted value *mx + b* and the actual value *y*<sub>*i*</sub>. To quantify this error we use a so-called loss function, in this case the **Mean Square Error** (MSE). 
 
-<p> L(m, b) = (1/n) &Sigma;<sub>i=1</sub><sup>n</sup> (y<sub>i</sub> - (mx<sub>i</sub> + b))<sup>2</sup> </p>
+
 
 Let's look at a couple of illustrations to visualize these concepts.\
 \
