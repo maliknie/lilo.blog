@@ -29,17 +29,11 @@ By the end you will not only understand how linear regression works but also get
 
 The goal of linear regression is to find the best-fit line *y = mx + b* that minimizes the error between the predicted value *mx + b* and the actual value *y*<sub>*i*</sub>. To quantify this error we use a so-called loss function, in this case the **Mean Square Error** (MSE). 
 
-
-
 Let's look at a couple of illustrations to visualize these concepts.\
 \
 Given some data points, here in blue, we're trying to find this red line that fits best to all points.
 
-
-
 In this image we can see that we can adjust two parameters to make this line fit our data: the slope *m* and the y-intercept *b*.
-
-
 
 In this illustration we can visualize the meaning of the MSE. In purple we can see the predtiction *mx<sub>i</sub> + b* at a point *x*<sub>*i*</sub>. The true value at that point is given by the blue points' y-value *y<sub>i</sub>*. The difference of the true value and the prediction gives us the error for one point (*y<sub>i</sub> - (mx<sub>i</sub> + b)*). To get the error for our entire dataset we square that value to get rid of any negative values, so the positive and negative values don't cancel out, and then sum the error of every point. At the end we normalize the error by dividing by the length of the dataset *n*.
 
@@ -65,8 +59,6 @@ To find the gradient we simply take the partial derivative of the loss function 
 
 Now that we calculated the partial derivatives we can use them to iteratively adjust our parameters using the following update rules:
 
-
-
 ### Closed-Form Solution
 
 Finding the closed-form solution is an analytical approach alternative to gradient descent to optimize the loss function. It offers an exact solution for the parameters *a* and *b* in one step. For a simple model, like linear regression, and a small dataset it's computationally efficient, but as complexity and size of the dataset grow, finding the closed-form solution becomed inefficient or even impossible.
@@ -74,8 +66,6 @@ Finding the closed-form solution is an analytical approach alternative to gradie
 #### How does it work?
 
 In optimization, partial derivatives measure how a function changes with respect to each parameter. To find the minimum of the loss function, we need to identify where the function stops decreasing—this happens when the slope is zero. For the Mean Squared Error (MSE), this means setting the partial derivatives with respect to m and b to zero:
-
-
 
 Imagine the loss function as a 3D bowl-shaped surface where the height represents the error. The minimum is at the bottom of the bowl, where the slope is zero in every direction. Mathematically, this is where the partial derivatives of the loss function are zero.
 
@@ -86,3 +76,120 @@ To find *m* and *b* we can set their partial derivatives equal to zero and we ge
 
 
 Here is how to solve this 2x2 system of equations to get to these formulas:
+
+
+
+Now let's see how we would implement both of these approached in Python.
+
+# Implementation in Python
+
+I started by generating some data. I used a lambda function to create a "true" relationship y = -3x + 10. I then added some random noise that reflects the natural variability you would see in real-world data.
+
+```
+import numpy as np
+import random
+
+random.seed(0)
+
+assignment_function = lambda x: -3 * x + 10
+
+data = np.array([(x/2, assignment_function(x/2) + random.randint(-1000, 1000) * 0.01)  for x in range(100)])
+```
+
+Moving on, I implemented the MSE as our loss function:
+
+```
+def mean_squared_error(m, b, data):
+    total_error = 0
+    for i in range(len(data)):
+        x = data[i, 0]
+        y = data[i, 1]
+        total_error += (y - (m * x + b)) ** 2
+    return total_error / len(data)
+```
+
+I then wrote two functions for both approaches we discussed:
+
+```
+def gradient_descent(current_m, current_b, data, learning_rate):
+    m_gradient = 0
+    b_gradient = 0
+    n = len(data)
+    for i in range(n):
+        x = data[i, 0]
+        y = data[i, 1]
+        m_gradient += -(2/n) * x * (y - (current_m * x + current_b))
+        b_gradient += -(2/n) * (y - (current_m * x + current_b))
+    
+    new_m = current_m - (learning_rate * m_gradient) 
+    new_b = current_b - (learning_rate * b_gradient)
+    return new_m, new_b
+
+def closed_form_solution(data):
+    x = data[:, 0]
+    y = data[:, 1]
+    n = len(data)
+    m = (n * np.sum(x * y) - np.sum(x) * np.sum(y)) / (n * np.sum(x ** 2) - (np.sum(x) ** 2))
+    b = (np.sum(y) - m * np.sum(x)) / n
+    return m, b
+```
+
+To try both of our approaches I computed the parameters using both functions:
+
+```
+m = 0
+b = 0
+lr = 0.001
+
+# Run gradient descent 10,000 times
+for i in range(10000):
+    m, b = gradient_descent(m, b, data, lr)
+
+# Get the optimal values of m and b
+optimal_m, optimal_b = closed_form_solution(data)
+
+
+print("Gradient Descent:")
+print("m:", m, "b:", b)
+print("Error:", mean_squared_error(m, b, data))
+
+print("________________________")
+
+print("Closed Form:")
+print("m:", optimal_m, "b:", optimal_b)
+print("Error:", mean_squared_error(optimal_m, optimal_b, data))
+```
+
+After running the code I got the following results:
+
+```
+Gradient Descent:
+m: -3.005955615817557 b: 11.278531884074836
+Error: 34.38766295184873
+________________________
+Closed Form:
+m: -3.0081170117011693 b: 11.350196039603935
+Error: 34.38635965783978
+```
+
+As we can see both approaches delivered very similar results with the closed-form solution method having a slightly lower error, which makes sense as it computes the optimal parameters.
+
+To visualize the results I plotted the points and the regression lines:
+
+```
+x = data[:, 0]
+y = data[:, 1]
+
+
+plt.figure(figsize=(10, 10))
+plt.scatter(x, y)
+plt.plot(x, optimal_m * x + optimal_b, color='green', label='Closed Form', linewidth=4)
+plt.plot(x, m * x + b, color='red', label='Gradient Descent', linewidth=2)
+plt.title('Comparison of Gradient Descent and Closed Form')
+plt.legend()
+plt.show()
+```
+
+The results show that both approaches worked nicely:
+
+![Visualizing comparison](screenshot-from-2024-11-30-00-41-46.png "Comparison: Gradient Descent vs. Closed-Form Solution")
