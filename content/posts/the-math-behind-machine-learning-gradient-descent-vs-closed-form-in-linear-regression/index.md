@@ -27,49 +27,7 @@ By the end you will not only understand how linear regression works but also get
 
 The goal of linear regression is to find the best-fit line *y = mx + b* that minimizes the error between the predicted value *mx + b* and the actual value *y*<sub>*i*</sub>. To quantify this error we use a so-called loss function, in this case the **Mean Square Error** (MSE). 
 
-<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
-  <mi>L</mi>
-  <mo>(</mo>
-  <mi>m</mi>
-  <mo>,</mo>
-  <mi>b</mi>
-  <mo>)</mo>
-  <mo>=</mo>
-  <mfrac>
-    <mn>1</mn>
-    <mi>n</mi>
-  </mfrac>
-  <mo>&#x2211;</mo>
-  <msub>
-    <mi>i</mi>
-    <mn>1</mn>
-  </msub>
-  <mo>^</mo>
-  <mi>n</mi>
-  <mo stretchy="false">(</mo>
-  <mi>y</mi>
-  <msub>
-    <mi>i</mi>
-    <mrow/>
-  </msub>
-  <mo>-</mo>
-  <mo stretchy="false">(</mo>
-  <mi>m</mi>
-  <mo>&#x22C5;</mo>
-  <mi>x</mi>
-  <msub>
-    <mi>i</mi>
-    <mrow/>
-  </msub>
-  <mo>+</mo>
-  <mi>b</mi>
-  <mo stretchy="false">)</mo>
-  <mo stretchy="false">)</mo>
-  <msup>
-    <mo stretchy="false">(</mo>
-    <mn>2</mn>
-  </msup>
-</math>
+<p> L(m, b) = (1/n) &Sigma;<sub>i=1</sub><sup>n</sup> (y<sub>i</sub> - (mx<sub>i</sub> + b))<sup>2</sup> </p>
 
 Let's look at a couple of illustrations to visualize these concepts.\
 \
