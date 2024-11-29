@@ -192,6 +192,37 @@ plt.legend()
 plt.show()
 ```
 
-The results show that both approaches worked nicely:
+The results show that both approaches worked nicely
 
-![Visualizing comparison](screenshot-from-2024-11-30-00-41-46.png "Comparison: Gradient Descent vs. Closed-Form Solution")
+
+
+
+
+# Comparison: Gradient Descent vs. Closed-Form Solution
+
+Now that we've implemented both gradient descent and the closed-form solution for linear regression, let's compare these two approaches. While both aim to minimize the loss function and find the best-fit line, they achieve this in fundamentally different ways.
+
+
+
+| Feature | Gradient Descent | Closed-Form Solution |
+| ------- | ---------------- | -------------------- |
+
+|              |           |            |
+| ------------ | --------- | ---------- |
+| **Approach** | Iterative | Analytical |
+
+|              |                           |       |
+| ------------ | ------------------------- | ----- |
+| **Accuracy** | Approximates the solution | Exact |
+
+|                        |                                     |                                   |
+| ---------------------- | ----------------------------------- | --------------------------------- |
+| **Computational Cost** | Depends on the number of iterations | More efficient for small datasets |
+
+|                 |                               |                                        |
+| --------------- | ----------------------------- | -------------------------------------- |
+| **Scalability** | Scales well to large datasets | Becomes inefficient for large datasets |
+
+|                 |                                        |                                       |
+| --------------- | -------------------------------------- | ------------------------------------- |
+| **Flexibility** | Works for complex, non-linear problems | Limited to problems with closed forms |
