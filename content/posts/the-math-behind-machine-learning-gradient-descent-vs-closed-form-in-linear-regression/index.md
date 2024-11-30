@@ -14,21 +14,26 @@ Linear regression is a foundational concept in machine learning often seen as th
 
 1. [Introduction](#the-foundation-of-predictive-modeling)
 2. [Linear Regression and The Math Behind It](#linear-regression-and-the-math-behind-it)  
-   - [Loss Functions](#loss-functions)
+
+   * [Loss Functions](#loss-functions)
 3. [Optimization](#optimization)  
-   - [Gradient Descent](#gradient-descent)  
-     - [How Does It Work?](#how-does-it-work)  
-     - [How Do You Find the Gradient?](#how-do-you-find-the-gradient)  
-   - [Closed-Form Solution](#closed-form-solution)  
-     - [How Does It Work?](#how-does-it-work-1)  
-     - [How Do You Find the Optimal Parameters?](#how-do-you-find-the-optimal-parameters)  
+
+   * [Gradient Descent](#gradient-descent)  
+
+     * [How Does It Work?](#how-does-it-work)  
+     * [How Do You Find the Gradient?](#how-do-you-find-the-gradient)  
+   * [Closed-Form Solution](#closed-form-solution)  
+
+     * [How Does It Work?](#how-does-it-work-1)  
+     * [How Do You Find the Optimal Parameters?](#how-do-you-find-the-optimal-parameters)  
 4. [Implementation in Python](#implementation-in-python)
 5. [Why Gradient Descent Dominates Machine Learning](#why-gradient-descent-dominates-machine-learning)  
-   - [1. Scalability](#1-scalability)  
-   - [2. Flexibility](#2-flexibility)  
-   - [3. Adaptability with Variants](#3-adaptability-with-variants)  
-   - [4. Handling Complex Loss Functions](#4-handling-complex-loss-functions)  
-   - [Practical Trade-Offs](#practical-trade-offs)  
+
+   * [1. Scalability](#1-scalability)  
+   * [2. Flexibility](#2-flexibility)  
+   * [3. Adaptability with Variants](#3-adaptability-with-variants)  
+   * [4. Handling Complex Loss Functions](#4-handling-complex-loss-functions)  
+   * [Practical Trade-Offs](#practical-trade-offs)  
 6. [Conclusion](#conclusion)
 
 # The Foundation of Predictive Modeling
@@ -50,11 +55,21 @@ By the end you will not only understand how linear regression works but also get
 
 The goal of linear regression is to find the best-fit line *y = mx + b* that minimizes the error between the predicted value *mx + b* and the actual value *y*<sub>*i*</sub>. To quantify this error we use a so-called loss function, in this case the **Mean Square Error** (MSE). 
 
-Let's look at a couple of illustrations to visualize these concepts.\
+![MSE](img_1116.jpeg "MSE")
+
+Let's look at a couple of illustrations to visualize these concepts.
+
+![Regression line](img_1110.jpeg "Regression line")
+
+\
 \
 Given some data points, here in blue, we're trying to find this red line that fits best to all points.
 
+![Parameters](img_1112.jpeg "Parameters")
+
 In this image we can see that we can adjust two parameters to make this line fit our data: the slope *m* and the y-intercept *b*.
+
+![Error visualization](img_1114.jpeg "Error visualization")
 
 In this illustration we can visualize the meaning of the MSE. In purple we can see the prediction *mx<sub>i</sub> + b* at a point *x*<sub>*i*</sub>. The true value at that point is given by the blue points' y-value *y<sub>i</sub>*. The difference of the true value and the prediction gives us the error for one point (*y<sub>i</sub> - (mx<sub>i</sub> + b)*). To get the error for our entire dataset we square that value to get rid of any negative values, so the positive and negative values don't cancel out, and then sum the error of every point. At the end we normalize the error by dividing by the length of the dataset *n*.
 
@@ -78,7 +93,11 @@ The learning rate shouldn't be too small, because with very tiny steps, finding 
 
 To find the gradient we simply take the partial derivative of the loss function with respect to each variable. In this case we only have to find two partial derivatives: One with respect to *m* and one with respect to *b*. The partial derivatives measure how sensitive the loss is to changes in each parameter and can be calculated by using the chain rule and the power rule from calculus as shown in the calculations below. 
 
+![Calculate partial derivatives](screenshot-from-2024-11-30-01-56-54.png "Calculate partial derivatives")
+
 Now that we calculated the partial derivatives we can use them to iteratively adjust our parameters using the following update rules:
+
+![Update rules](img_1115.jpeg "Update rules")
 
 ### Closed-Form Solution
 
@@ -88,13 +107,25 @@ Finding the closed-form solution is an analytical approach alternative to gradie
 
 In optimization, partial derivatives measure how a function changes with respect to each parameter. To find the minimum of the loss function, we need to identify where the function stops decreasing—this happens when the slope is zero. For the Mean Squared Error (MSE), this means setting the partial derivatives with respect to m and b to zero:
 
+![Set partial derivatives equal to 0](img_1117.jpeg "Set partial derivatives equal to 0")
+
 Imagine the loss function as a 3D bowl-shaped surface where the height represents the error. The minimum is at the bottom of the bowl, where the slope is zero in every direction. Mathematically, this is where the partial derivatives of the loss function are zero.
 
 #### How do you find the optimal parameters?
 
 To find *m* and *b* we can set their partial derivatives equal to zero and we get a 2x2 system of equations. If we solve this system of equations we find the optimal values for both parameters. The formulas for *m* and *b* are:
 
+![m and b closed-form solution](img_1118.jpeg "m and b closed-form solution")
+
 Here is how to solve this 2x2 system of equations to get to these formulas:
+
+![](screenshot-from-2024-11-30-01-58-00.png)
+
+![](screenshot-from-2024-11-30-01-58-35.png)
+
+![](screenshot-from-2024-11-30-01-59-07.png)
+
+![](screensho.png)
 
 Now let's see how we would implement both of these approached in Python.
 
