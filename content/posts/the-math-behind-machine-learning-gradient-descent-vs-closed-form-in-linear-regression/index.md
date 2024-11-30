@@ -10,7 +10,16 @@ Linear regression is a foundational concept in machine learning often seen as th
 
 {{<lead>}}
 
-\# Table of Contents 1. \[Introduction](#the-foundation-of-predictive-modeling) 2. \[The Math Behind Linear Regression](#linear-regression-and-the-math-behind-it) - \[Loss Functions](#loss-functions) 3. \[Optimization Techniques](#optimization) - \[Gradient Descent](#gradient-descent) - \[Closed-Form Solution](#closed-form-solution) 4. \[Implementation in Python](#implementation-in-python) 5. \[Why Gradient Descent Dominates Machine Learning](#why-gradient-descent-dominates-machine-learning) 6. \[Conclusion](#conclusion)
+# Table of Contents
+1. [Introduction](#the-foundation-of-predictive-modeling)
+2. [The Math Behind Linear Regression](#linear-regression-and-the-math-behind-it)
+    - [Loss Functions](#loss-functions)
+3. [Optimization Techniques](#optimization)
+    - [Gradient Descent](#gradient-descent)
+    - [Closed-Form Solution](#closed-form-solution)
+4. [Implementation in Python](#implementation-in-python)
+5. [Why Gradient Descent Dominates Machine Learning](#why-gradient-descent-dominates-machine-learning)
+6. [Conclusion](#conclusion)
 
 # The Foundation of Predictive Modeling
 
