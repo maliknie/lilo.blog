@@ -87,7 +87,7 @@ Gradient descent works by finding the "direction of steepest descent" on the los
 
 Imagine the loss function as a bowl-shaped surface, where the height represents the error. The gradient is like a compass pointing uphill, and the "steepest descent" is the opposite direction—downhill. By taking small steps in this direction, guided by the learning rate *α*, we iteratively find the minimum of the loss function.
 
-The learning rate shouldn't be too small, because with very tiny steps, finding the way "down-hill" takes a long time. On the other hand the learning rate also shouldn't be too big, because by taking large steps we risk overshooting the minimum and going "up-hill" on the other side of the minimum.
+The learning rate shouldn't be too small, because with very tiny steps, finding the way "downhill" takes a long time. On the other hand the learning rate also shouldn't be too big, because by taking large steps we risk overshooting the minimum and going "uphill" on the other side of the minimum.
 
 #### How do you find the gradient?
 
