@@ -11,14 +11,24 @@ Linear regression is a foundational concept in machine learning often seen as th
 {{<lead>}}
 
 # Table of Contents
+
 1. [Introduction](#the-foundation-of-predictive-modeling)
-2. [The Math Behind Linear Regression](#linear-regression-and-the-math-behind-it)
-    - [Loss Functions](#loss-functions)
-3. [Optimization Techniques](#optimization)
-    - [Gradient Descent](#gradient-descent)
-    - [Closed-Form Solution](#closed-form-solution)
+2. [Linear Regression and The Math Behind It](#linear-regression-and-the-math-behind-it)  
+   - [Loss Functions](#loss-functions)
+3. [Optimization](#optimization)  
+   - [Gradient Descent](#gradient-descent)  
+     - [How Does It Work?](#how-does-it-work)  
+     - [How Do You Find the Gradient?](#how-do-you-find-the-gradient)  
+   - [Closed-Form Solution](#closed-form-solution)  
+     - [How Does It Work?](#how-does-it-work-1)  
+     - [How Do You Find the Optimal Parameters?](#how-do-you-find-the-optimal-parameters)  
 4. [Implementation in Python](#implementation-in-python)
-5. [Why Gradient Descent Dominates Machine Learning](#why-gradient-descent-dominates-machine-learning)
+5. [Why Gradient Descent Dominates Machine Learning](#why-gradient-descent-dominates-machine-learning)  
+   - [1. Scalability](#1-scalability)  
+   - [2. Flexibility](#2-flexibility)  
+   - [3. Adaptability with Variants](#3-adaptability-with-variants)  
+   - [4. Handling Complex Loss Functions](#4-handling-complex-loss-functions)  
+   - [Practical Trade-Offs](#practical-trade-offs)  
 6. [Conclusion](#conclusion)
 
 # The Foundation of Predictive Modeling
@@ -84,11 +94,7 @@ Imagine the loss function as a 3D bowl-shaped surface where the height represent
 
 To find *m* and *b* we can set their partial derivatives equal to zero and we get a 2x2 system of equations. If we solve this system of equations we find the optimal values for both parameters. The formulas for *m* and *b* are:
 
-
-
 Here is how to solve this 2x2 system of equations to get to these formulas:
-
-
 
 Now let's see how we would implement both of these approached in Python.
 
@@ -203,38 +209,41 @@ plt.legend()
 plt.show()
 ```
 
-The results show that both approaches worked nicely
-
-
+The results show that both approaches worked nicely.
 
 # **Why Gradient Descent Dominates Machine Learning**
 
-While the closed-form solution is efficient for small datasets and simple models like linear regression, gradient descent dominates machine learning due to its scalability, flexibility, and ability to handle more complex scenarios.
+Since the close-form solution finds the optimal parameters to find the minimum of the loss function it could seem like it's the better option for machine learning. So you might ask yourself: Why is gradient descent dominant in the field of ML? While the closed-form solution is efficient for small datasets and simple models like linear regression, gradient descent dominates machine learning due to its scalability, flexibility, and ability to handle more complex scenarios.
 
-## **1. Scalability**
+## 1. Scalability
 
 Gradient descent is inherently scalable to large datasets and high-dimensional problems. While the closed-form solution requires computing multiple sums over the entire dataset, which can become computationally expensive for large data, gradient descent processes the data iteratively. This means it can handle datasets that are too large to fit into memory by updating the parameters in smaller steps. For datasets with millions of rows and features, gradient descent is the practical choice.
 
-## **2. Flexibility**
+## 2. Flexibility
 
 Gradient descent works for a wide range of machine learning models, not just linear regression. For example, logistic regression, support vector machines, and neural networks all rely on gradient descent or its variants to optimize their parameters. These models often involve loss functions that cannot be minimized analytically, making gradient descent the only viable solution.
 
-## **3. Adaptability with Variants**
+## 3. Adaptability with Variants
 
 Gradient descent has evolved with many variants tailored for different use cases:
 
 * **Stochastic Gradient Descent (SGD)** processes one data point at a time, making it faster for very large datasets.
 * **Mini-Batch Gradient Descent** strikes a balance by processing small subsets of the data at each step.
-* Advanced algorithms like **Momentum** and **Adam** improve convergence speed and stability, making gradient descent more robust for non-convex problems.
 
-## **4. Handling Complex Loss Functions**
+## 4. Handling Complex Loss Functions
 
-Many machine learning models have non-convex loss functions with multiple local minima. Gradient descent, especially with improvements like Adam or Momentum, can navigate these complex landscapes effectively, converging to good solutions even when an exact minimum cannot be found.
+Many machine learning models have non-convex loss functions with multiple local minima. Gradient descent can navigate these complex landscapes effectively, converging to good solutions even when an exact minimum cannot be found.
 
-## **Practical Trade-Offs**
+## Practical Trade-Offs
 
-While gradient descent requires careful tuning of hyperparameters like the learning rate, it excels in real-world scenarios. The closed-form solution, on the other hand, is limited to simple models and becomes impractical for large datasets or complex models.
+Even though gradient descent only approximates the minimum of the loss function, it excels in real-world scenarios. The closed-form solution, on the other hand, is limited to simple models and becomes impractical for large datasets or complex models.
 
-### **Conclusion**
+# Conclusion
 
-Gradient descent dominates machine learning because of its scalability, flexibility, and adaptability. It handles massive datasets, high-dimensional spaces, and complex loss functions with ease, making it the backbone of modern machine learning techniques.
+Linear regression serves as the perfect introduction to understanding the optimization techniques that form the basis of machine learning. By comparing the **closed-form solution** and **gradient descent**, we've explored two powerful approaches to solving this foundational problem.
+
+The closed-form solution is elegant and efficient for small, simple datasets, providing exact results in a single calculation. However, as we've seen, its limitations become apparent as datasets grow larger or models increase in complexity. For linear regression, the closed-form solution shines, but its practicality fades when scalability and flexibility are required.
+
+Gradient descent, on the other hand, emerges as the foundation of modern machine learning. Its ability to handle large datasets, adapt to complex models, and scale with high-dimensional problems makes it indispensable. By iteratively improving parameters and offering variants like stochastic and mini-batch gradient descent, this method provides the flexibility and robustness needed to tackle real-world challenges. While gradient descent may approximate the solution rather than calculate it exactly, its iterative approach and compatibility with non-linear models ensure it remains at the heart of machine learning optimization.
+
+In conclusion, while both methods perform well for linear regression, gradient descent's dominance stems from its scalability, adaptability, and versatility. Mastering both approaches not only deepens your understanding of optimization but also equips you with tools to explore more advanced machine learning techniques. Whether you're building simple predictive models or training deep neural networks, the principles discussed here lay a solid foundation for your journey into the world of machine learning.
