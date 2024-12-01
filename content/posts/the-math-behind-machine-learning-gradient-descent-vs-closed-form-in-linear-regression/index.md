@@ -241,6 +241,8 @@ plt.legend()
 plt.show()
 ```
 
+![Plotted results](screenshot-from-2024-11-30-00-41-46.png "Plotted results")
+
 The results show that both approaches worked nicely.
 
 # **Why Gradient Descent Dominates Machine Learning**
