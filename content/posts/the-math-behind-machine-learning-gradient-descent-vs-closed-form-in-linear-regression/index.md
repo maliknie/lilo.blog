@@ -3,7 +3,7 @@ title = "The Math Behind Machine Learning - Gradient Descent vs. Closed Form in 
 date = "2024-11-29"
 draft = false
 pinned = false
-image = "img_1118.jpeg"
+image = "img_1115.jpeg"
 +++
 {{<lead>}}
 
@@ -102,7 +102,7 @@ Now that we calculated the partial derivatives we can use them to iteratively ad
 
 ### Closed-Form Solution
 
-Finding the closed-form solution is an analytical approach alternative to gradient descent to optimize the loss function. It offers an exact solution for the parameters *a* and *b* in one step. For a simple model, like linear regression, and a small dataset it's computationally efficient, but as complexity and size of the dataset grow, finding the closed-form solution become inefficient or even impossible.
+Finding the closed-form solution is an analytical approach alternative to gradient descent to optimize the loss function. It offers an exact solution for the parameters *m* and *b* in one step. For a simple model, like linear regression, and a small dataset it's computationally efficient, but as complexity and size of the dataset grow, finding the closed-form solution become inefficient or even impossible.
 
 #### How does it work?
 
