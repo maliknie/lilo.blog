@@ -3,6 +3,7 @@ title = "The Math Behind Machine Learning - Gradient Descent vs. Closed Form in 
 date = "2024-11-29"
 draft = false
 pinned = false
+image = "img_1118.jpeg"
 +++
 {{<lead>}}
 
