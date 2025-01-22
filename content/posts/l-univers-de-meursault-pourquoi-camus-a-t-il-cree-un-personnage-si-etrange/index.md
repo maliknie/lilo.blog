@@ -6,13 +6,13 @@ pinned = false
 +++
 ##🌍 Une figure de l’absurde dans un monde en crise
 
-Albert Camus, à travers *L’Étranger*, dresse le portrait d’un homme à contre-courant des conventions sociales. Mais pourquoi un personnage aussi indifférent, presque inhumain aux yeux des autres ? Pour répondre à cette question, explorons la piste historico-politique : le contexte de l’entre-deux-guerres et son influence sur la construction de Meursault.
+Albert Camus, à travers *L’Étranger*, dresses le portrait d’un homme à contre-courant des conventions sociales. Mais pourquoi un personnage aussi indifférent, presque inhumain aux yeux des autres ? Pour répondre à cette question, explorons la piste historico-politique : le contexte de l’entre-deux-guerres et son influence sur la construction de Meursault.
 
  
 
 ##🎭 L’ombre de l’absurde : un monde désorienté
 
-L’entre-deux-guerres est une époque marquée par une remise en question des valeurs traditionnelles. La Premère Guerre mondiale a laissé place à un sentiment d’absurdité face à la violence et au chaos du monde. Camus, inspiré par ce climat, développe l'idée de l’absurde : un univers sans logique ni finalité. Meursault incarne cet esprit par son refus d’attribuer un sens aux événements, notamment la mort de sa mère ou son propre procès.
+L’entre-deux-guerres est une époque marquée par une remise en question des valeurs traditionnelles. La Premère Guerre mondiale a laissé place à un sentiment d’absurdité face a la violence et au chaos du monde. Camus, inspiré par ce climat, développe l'idée de l’absurde : un univers sans logique ni finalité. Meursault incarne cet esprit par son refus d’attribuer un sens aux événements, notamment la mort de sa mère ou son propre procès.
 
  
 
@@ -27,8 +27,6 @@ Dans une période où les idéologies totalitaires et les dogmes religieux domin
 ##🔄 Une réflexion sur la condition humaine
 
 Camus ne crée pas Meursault pour en faire un antihéros gratuit, mais pour illustrer une idée philosophique profonde : l’homme face à l’absurde. Ce personnage pousse le lecteur à s’interroger sur la place du sens dans l’existence. Peut-on vivre sans illusion ? Sommes-nous condamnés à chercher un sens là où il n’y en a pas ?
-
-📈 **Ressource recommandée :** Podcast sur Camus et l'absurde
 
  
 
