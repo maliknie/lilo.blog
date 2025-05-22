@@ -1,8 +1,8 @@
 +++
 title = "The Math Behind Machine Learning - Gradient Descent vs. Closed Form in Linear Regression"
 date = "2024-11-29"
-draft = false
-pinned = true
+draft = true
+pinned = false
 tags = ["ML", "MachineLearning", "AI", "ArtificialIntelligence", "LinearRegression"]
 image = "img_1115.jpeg"
 +++
