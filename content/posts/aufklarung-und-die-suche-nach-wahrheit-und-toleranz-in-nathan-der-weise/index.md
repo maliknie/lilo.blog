@@ -1,7 +1,7 @@
 +++
 title = "Aufklärung und die Suche nach Wahrheit und Toleranz in Nathan der Weise "
 date = "2024-10-31"
-draft = false
+draft = true
 pinned = false
 +++
 # Nathan der Weise und die Ideale der Aufklärung
